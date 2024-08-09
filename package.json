@@ -1,0 +1,17 @@
+{
+  "name": "qm-map-print",
+  "version": "1.0.0",
+  "description": "mapbox view print tool",
+  "main": "print/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fabric": "^5.3.0",
+    "file-saver": "^2.0.5",
+    "jspdf": "^2.5.1",
+    "mapbox-gl": "^1.13.0"
+  }
+}
