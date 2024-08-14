@@ -4,7 +4,8 @@ qm-map-print 是一款基于React、Mapboxgl的地图打印工具
 ## 安装
 使用npm或yarn安装
 ```bash
-npm install qm-map-print --force
+npm install qm-map-print 
+yarn add qm-map-print
 
 ```
 

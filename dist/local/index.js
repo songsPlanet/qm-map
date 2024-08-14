@@ -1,0 +1,15 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.chinese = exports.vietnam = exports.swedish = exports.finnish = exports.french = exports.english = void 0;
+const en_1 = require("./en");
+exports.english = en_1.default;
+const fr_1 = require("./fr");
+exports.french = fr_1.default;
+const fi_1 = require("./fi");
+exports.finnish = fi_1.default;
+const sv_1 = require("./sv");
+exports.swedish = sv_1.default;
+const vi_1 = require("./vi");
+exports.vietnam = vi_1.default;
+const cn_1 = require("./cn");
+exports.chinese = cn_1.default;
